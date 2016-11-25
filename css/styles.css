@@ -1,0 +1,16 @@
+.event {
+	font-size: 14px;
+	margin-top: 20px;
+}
+	.event-title {
+		margin-bottom: 0;
+	}
+	.event-desc {
+		margin-top: 20px;
+	}
+		.event-desc p {
+			margin: 0;
+		}
+		.event-desc b {
+			font-weight: normal;
+		}
