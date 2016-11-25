@@ -1,5 +1,5 @@
 var baseUrl = 'https://api.meetup.com/2/open_events';
-var apiKey = '27391c26232b51175b153b1e4b4d761';
+var apiKey = '2a5b133da764b144d116561683355';
 var transport = new Transport(baseUrl, apiKey);
 
 var promiseArray = [];
